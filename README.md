@@ -3,7 +3,7 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a full stack developer!
 <br>Email to contact:  isabellaruffi9@gmail.com
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__isabellaruffi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isabellarufii) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__isabellaruffi_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__isabellaruffi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isabellarufii)
 
 [![](https://visitcount.itsvg.in/api?id=isabellarufii&icon=5&color=6)](https://visitcount.itsvg.in)
 
