@@ -13,6 +13,8 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionat
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isabellaruffi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaruffi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
+![IsabellaRuffi's Stats](https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
