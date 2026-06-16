@@ -10,7 +10,6 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionat
 
 # 📊 GitHub Stats:
 ![IsabellaRuffi's Stats](https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-
 ![IsabellaRuffi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsabellaRuffi&theme=nightowl&hide_border=false)
 
 ![IsabellaRuffi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaRuffi&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
