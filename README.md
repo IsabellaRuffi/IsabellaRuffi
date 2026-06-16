@@ -9,12 +9,9 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionat
 [![](https://visitcount.itsvg.in/api?id=isabellaruffi&icon=5&color=6)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isabellaruffi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=isabellaruffi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaruffi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-
 ![IsabellaRuffi's Stats](https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=isabellaruffi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![IsabellaRuffi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsabellaRuffi&theme=nightowl&hide_border=false)
+![IsabellaRuffi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaRuffi&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 # 💻 Tech Stack:
 <div align="left">
