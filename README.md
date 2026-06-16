@@ -9,9 +9,18 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionat
 [![](https://visitcount.itsvg.in/api?id=isabellaruffi&icon=5&color=6)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
-![IsabellaRuffi's Stats](https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-![IsabellaRuffi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsabellaRuffi&theme=nightowl&hide_border=false)
-![IsabellaRuffi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaRuffi&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&count_private=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabellaRuffi&theme=nightowl" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaRuffi&theme=nightowl&layout=compact" />
+</p>
+
 
 # 💻 Tech Stack:
 <div align="left">
