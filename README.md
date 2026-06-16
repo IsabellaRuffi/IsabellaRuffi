@@ -14,6 +14,7 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaruffi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ![IsabellaRuffi's Stats](https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=isabellaruffi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 # 💻 Tech Stack:
 <div align="left">
