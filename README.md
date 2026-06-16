@@ -10,11 +10,8 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionat
 
 # 📊 GitHub Stats:
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&count_private=true" />
-
 <br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabellaRuffi&theme=nightowl" />
 
 <br><br>
