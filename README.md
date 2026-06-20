@@ -12,7 +12,7 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionat
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&count_private=true" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabellaRuffi&theme=nightowl" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabellaRuffi&theme=nightowl"  />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaRuffi&theme=nightowl&layout=compact" />
 </div>
