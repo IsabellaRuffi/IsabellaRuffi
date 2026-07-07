@@ -1,4 +1,4 @@
-# 💫 About Me:     
+# 💫 About Me:      
 Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionate about creating modern and responsive web applications.
 <br>Email to contact: isabellaruffi9@gmail.com
 
