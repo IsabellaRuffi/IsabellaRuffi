@@ -2,7 +2,7 @@
 Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionate about creating modern and responsive web applications.
 <br>Email to contact: isabellaruffi9@gmail.com
 
-## 🌐 Socials:     
+## 🌐 Socials:       
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_isabellaruffi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isabella-ruffi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/5516981679967)
 
