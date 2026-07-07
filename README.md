@@ -8,7 +8,7 @@ Hello! 👋<br>My name is Isabella Ruffi and I'm a Front-End Developer passionat
 
 [![](https://visitcount.itsvg.in/api?id=isabellaruffi&icon=5&color=6)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=IsabellaRuffi&theme=nightowl&show_icons=true&count_private=true" />
 <br>
